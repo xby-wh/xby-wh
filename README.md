@@ -1,5 +1,5 @@
 ## Hi there 👋
-[73985](https://raw.githubusercontent.com/xby-wh/xby-wh/735e74c5594c2b5fe17dc2369915af010a689390/github-metrics.svg)
+![xby-wh](https://raw.githubusercontent.com/xby-wh/xby-wh/735e74c5594c2b5fe17dc2369915af010a689390/github-metrics.svg)
 <!--
 **xby-wh/xby-wh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
